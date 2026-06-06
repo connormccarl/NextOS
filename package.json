@@ -1,5 +1,5 @@
 {
-    "name": "nextos",
+    "name": "@connormccarl/nextos",
     "author": "Connor McCarl <connormccarl@gmail.com> (mailto:connormccarl@gmail.com)",
     "description": "NextOS is a NPM package for NextJS applications that enables users to add common and advanced functionality into their web applications easily like: authentication, database managemennt, admin dashboard, analytics, forms, etc.",
     "version": "1.0.0"
